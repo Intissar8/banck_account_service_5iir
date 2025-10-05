@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Bean;
 import java.util.Date;
 import java.util.UUID;
 
-@SpringBootApplication(scanBasePackages = "ma.emsi.banck_account_service")
+@SpringBootApplication
 public class BanckAccountServiceApplication {
 
     public static void main(String[] args) {

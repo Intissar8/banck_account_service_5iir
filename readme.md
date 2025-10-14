@@ -43,6 +43,22 @@
 <h1>Affichage de liste des Customers </h1>
 <img src="pictures/customers.jpg">
 <img src="pictures/bankaccount_customer.jpg">
-<h1>Je n’ai pas pu charger l’interface GraphQL car elle restait bloquée sur l’écran de chargement. Cependant, j’ai continué à écrire le code nécessaire et j’ai pu le terminer sans aucune erreur.</h1>
-<img src="pictures/loading.jpg">
+<h1>Affichage de liste des comptes avec graphql</h1>
+<img src="pictures/get_graphql.jpg">
+<img src="pictures/customer_account.jpg">
+<h1>Ajout d'un compte avec graphql</h1>
+<img src="pictures/add_account.jpg">
+<h1>Ajout d'un compte avec graphql en utilisant les parametres</h1>
+<img src="pictures/add_param.jpg">
+<h1>Update d'un compte avec graphql en utilisant les parametres</h1>
+<img src="pictures/update.jpg">
+<h1>Delete d'un compte avec graphql </h1>
+<img src="pictures/delete.jpg">
+<h1>Affichage des customers avec graphql </h1>
+<img src="pictures/list_customers.jpg">
+<h1>Exemple de gestion d'exception </h1>
+<img src="pictures/gestion_exception.jpg">
+
+
+
 
